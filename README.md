@@ -14,3 +14,10 @@ Main Condititonal Statement in Python:
 1. if - Runs code only if a conditions is true.
 2. elif(short for else if) - Checks another conditions if the previous if(or elif) was false.
 3. else - Runs code if nono of the previous conditions were true. 
+
+
+# About the Project
+This is a discount calculator that helps calculate the price eventaully paid when discount percentage is deducted from original price.
+
+* If the discount percentage is 20% and above, discounts will be accured to customer.
+* If the discount percentage is less than 20%, there is no dicount, original proce must be paid.
